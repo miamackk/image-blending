@@ -1,0 +1,1 @@
+I had to complete this for homework, but I am happy with how my take on the classic Computer Vision image blending problem turned out. Run "image-blending.ipynb" to see results. My persnal favorite is the apple and owl, thanks!
